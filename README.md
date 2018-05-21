@@ -1,2 +1,2 @@
-# altairmikoto.github.io
-Mi pagina GIT
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
